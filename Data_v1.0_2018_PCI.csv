@@ -1,0 +1,52 @@
+experiment_id,nr_of_subjects,is_control,questionnaire_applied_after,reference_of_experience,subject_health,quest_abbreviation,pubmed_id,doi,main_author,date_published,reference_text,abstract_text,paper_link,dosage_quantity,dosage_unit,info_induction,induction_method,injection_method,Absorption_mean,Absorption_std,Altered_body_image_mean,Altered_body_image_std,Altered_Experience_mean,Altered_Experience_std,Altered_meaning_mean,Altered_meaning_std,Altered_perception_mean,Altered_perception_std,Altered_State_of_Awareness_mean,Altered_State_of_Awareness_std,Altered_time_sense_mean,Altered_time_sense_std,Amount_mean,Amount_std,Anger_mean,Anger_std,Arousal_mean,Arousal_std,Attention_mean,Attention_std,Direction_mean,Direction_std,Fear_mean,Fear_std,Internal_dialogue_mean,Internal_dialogue_std,Joy_mean,Joy_std,Love_mean,Love_std,Memory_mean,Memory_std,Negative_Affect_mean,Negative_Affect_std,Positive_Affect_mean,Positive_Affect_std,Rationality_mean,Rationality_std,Sadness_mean,Sadness_std,Self_Awareness_mean,Self_Awareness_std,Sexual_Excitement_mean,Sexual_Excitement_std,Visual_Imagery_mean,Visual_Imagery_std,Vividness_mean,Vividness_std,Volitional_control_mean,Volitional_control_std
+1,342,0,1,NULL,NULL,PCI,3661470,10.1080/00029157.1987.10402723,"Pekala RJ","1987 Jul","Pekala, R.J. & Kumar, V.K. (1987) Predicting hypnotic susceptibility via a self-report instrument: a replication. The American journal of clinical hypnosis, 1, 57-65.","Predicting hypnotic susceptibility via a self-report instrument: a replication.",NULL,10,minutes,"Short version of the induction procedure of the Harvard Scale of Hypnotic Susceptibility was used.",Hypnosis,n/a,4.19,1.54,2.90,1.65,2.37,1.27,1.54,1.39,2.02,1.73,3.70,1.91,3.29,1.86,2.10,1.82,0.67,1.20,1.42,1.47,4.09,1.26,4.02,1.51,0.69,1.28,1.95,1.96,1.60,1.64,1.81,1.78,3.91,1.66,0.70,1.04,1.42,1.43,3.40,1.78,0.74,1.28,3.28,1.73,0.84,1.57,2.25,1.51,2.41,1.64,2.70,1.66
+156,14,0,1,NULL,healthy,PCI,21177528,10.1177/0898010110391265,"Johnson M","2011 Sep"," & Johnson, M. (2011) A randomized study of a novel Zen dialogue method for producing spiritual and well-being enhancement: implications for end-of-life care. Journal of holistic nursing : official journal of the American Holistic Nurses' Association, 3, 201-10.","OBJECTIVES: To test the hypothesis that a novel Zen dialogue-based method can
+bring about significant improvements in spiritual, meditation, and well-being
+parameters.
+DESIGN: A pretest-posttest design was used with participants being randomly
+assigned to either treatment or no treatment group at the Zen Center. The
+participants were 14 females and 2 males within each group with no prior formal
+Zen or meditation training. Those participants in the treatment group received
+intensive interaction for 1 day with an experienced Zen teacher using a dialogue 
+method to induce a deep meditative state without instruction in formal meditation
+sitting practice. The outcome was measured with multiple previously standardized 
+instruments designed to assess meditation states, well-being, and spirituality.
+RESULTS: A repeated-measures analysis of variance showed statistically
+significant differences between the treatment and control groups for all
+parameters measured. In addition, the meditative state measure suggested
+qualities consistent with deep meditation experiences. The results justify
+further investigation of the technique as a rapid spiritual intervention tool
+particularly for clients facing end-of-life issues.",NULL,6,hours,"Zen training method using a self-based dialogue approach called Big Mind (Merzel, 2007) produces significant changes in subjective experience that are similar to the spiritual experiences of long-term meditators during deep meditation.","Zen training",n/a,4.50,1.00,4.30,3.10,4.00,1.00,4.30,1.50,3.50,1.00,4.40,1.50,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4.30,1.50,NULL,NULL,NULL,NULL,NULL,NULL,3.20,1.00,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+157,14,0,NULL,NULL,healthy,PCI,21177528,10.1177/0898010110391265,"Johnson M","2011 Sep"," & Johnson, M. (2011) A randomized study of a novel Zen dialogue method for producing spiritual and well-being enhancement: implications for end-of-life care. Journal of holistic nursing : official journal of the American Holistic Nurses' Association, 3, 201-10.","OBJECTIVES: To test the hypothesis that a novel Zen dialogue-based method can
+bring about significant improvements in spiritual, meditation, and well-being
+parameters.
+DESIGN: A pretest-posttest design was used with participants being randomly
+assigned to either treatment or no treatment group at the Zen Center. The
+participants were 14 females and 2 males within each group with no prior formal
+Zen or meditation training. Those participants in the treatment group received
+intensive interaction for 1 day with an experienced Zen teacher using a dialogue 
+method to induce a deep meditative state without instruction in formal meditation
+sitting practice. The outcome was measured with multiple previously standardized 
+instruments designed to assess meditation states, well-being, and spirituality.
+RESULTS: A repeated-measures analysis of variance showed statistically
+significant differences between the treatment and control groups for all
+parameters measured. In addition, the meditative state measure suggested
+qualities consistent with deep meditation experiences. The results justify
+further investigation of the technique as a rapid spiritual intervention tool
+particularly for clients facing end-of-life issues.",NULL,NULL,NULL,"The participants were not provided with any specific details regarding the dialogue session. They were informed that there would be reciprocal communication with a Zen Master in a group setting and that traditional sitting meditation techniques would not be taught. The participants were provided with preprocedure forms inclusive of the PCI, DASS< MEDEQ, FFMQ, and FACIT-Sp and asked to complete the forms 2 weeks before the dialogue session.","Zen training",n/a,2.60,0.30,2.60,0.70,4.20,1.30,1.80,1.30,1.90,0.30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1.60,1.10,NULL,NULL,NULL,NULL,NULL,NULL,2.00,0.30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+303,95,0,0,NULL,NULL,PCI,28230463,10.1080/00207144.2017.1276365,"Pekala RJ","2017 Apr-Jun","Pekala, R.J., Baglio, F., Cabinio, M., Lipari, S., Baglio, G., Mendozzi, L., Cecconi, P., Pugnetti, L. & Sciaky, R. () Hypnotism as a Function of Trance State Effects, Expectancy, and Suggestibility: An Italian Replication. The International journal of clinical and experimental hypnosis, 2, 210-240.","Previous research using stepwise regression analyses found self-reported hypnotic
+depth (srHD) to be a function of suggestibility, trance state effects, and
+expectancy. This study sought to replicate and expand that research using a
+general state measure of hypnotic responsivity, the Phenomenology of
+Consciousness Inventory: Hypnotic Assessment Procedure (PCI-HAP). Ninety-five
+participants completed an Italian translation of the PCI-HAP, with srHD scores
+predicted from the PCI-HAP assessment items. The regression analysis replicated
+the previous research results. Additionally, stepwise regression analyses were
+able to predict the srHD score equally well using only the PCI dimension scores. 
+These results not only replicated prior research but suggest how this methodology
+to assess hypnotic responsivity, when combined with more traditional
+neurophysiological and cognitive-behavioral methodologies, may allow for a more
+comprehensive understanding of that enigma called hypnosis.",NULL,NULL,NULL,"""The actual hypnotic induction consisted of a “body scan” (progressive
+ relaxation but without the tensing) and a “mind calm” routine (counting
+ back from “10” to “1” while “you let your mind become more and more
+ calm, more and more empty”). """,Hypnosis,n/a,3.90,1.43,2.62,1.73,2.01,1.22,1.39,1.31,1.53,1.32,2.88,1.57,2.71,2.00,3.18,1.89,0.63,1.26,1.27,1.37,8.14,2.42,4.18,1.34,0.58,1.09,2.43,1.87,2.14,1.62,1.83,1.71,4.91,1.08,0.65,1.03,1.57,1.12,3.99,1.42,0.75,1.41,4.11,1.34,0.74,1.24,3.01,1.79,2.85,1.89,3.24,1.62
