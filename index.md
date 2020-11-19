@@ -4,8 +4,7 @@ Learning how to teach a group of students of any age about electronics can be di
 
 ### Mobile Remote Education
 
-```markdown
-Syntax highlighted code block
+![alt text](https://github.com/mindyourbots/mindyourbots.github.io/blob/master/Screenshot-2020-11-15%20(1).png)
 
 # ONE
 ## TWO
